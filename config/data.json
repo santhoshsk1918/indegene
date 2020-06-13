@@ -1,0 +1,272 @@
+    [
+        {
+            "Book_Name": "Flexidy",
+            "Author_Name": "Kimmie Meikle",
+            "Awards_Won": 1,
+            "Books_Sold": 5528,
+            "Books_Price": 4440,
+            "Authors_Birthdate": "1992-02-16T09:49:44.000Z",
+            "Award_Date": "1981-07-17T14:08:57.000Z"
+        },
+        {
+            "Book_Name": "Fintone",
+            "Author_Name": "Leonard O'Grady",
+            "Awards_Won": 1,
+            "Books_Sold": 7718,
+            "Books_Price": 6827,
+            "Authors_Birthdate": "1992-02-16T09:49:44.000Z",
+            "Award_Date": "1988-07-18T08:09:04.000Z"
+        },
+        {
+            "Book_Name": "Namfix",
+            "Author_Name": "Kimmie Meikle",
+            "Awards_Won": 1,
+            "Books_Sold": 2558,
+            "Books_Price": 2085,
+            "Authors_Birthdate": "1992-02-16T09:49:44.000Z",
+            "Award_Date": "1991-10-12T11:29:39.000Z"
+        },
+        {
+            "Book_Name": "Quo Lux Again",
+            "Author_Name": "Moina McPeck",
+            "Awards_Won": 0,
+            "Books_Sold": 2220,
+            "Books_Price": 4639,
+            "Authors_Birthdate": "1973-08-13T17:09:04.000Z",
+            "Award_Date": "1990-05-21T17:26:51.000Z"
+        },
+        {
+            "Book_Name": "Konklux",
+            "Author_Name": "Stefania Hollow",
+            "Awards_Won": 0,
+            "Books_Sold": 5262,
+            "Books_Price": 2555,
+            "Authors_Birthdate": "1961-10-04T00:15:28.000Z",
+            "Award_Date": "1996-09-08T04:38:35.000Z"
+        },
+        {
+            "Book_Name": "Biodex",
+            "Author_Name": "Claudio Copello",
+            "Awards_Won": 1,
+            "Books_Sold": 9187,
+            "Books_Price": 12288,
+            "Authors_Birthdate": "1971-07-18T10:07:59.000Z",
+            "Award_Date": "1990-09-20T13:14:38.000Z"
+        },
+        {
+            "Book_Name": "Quo Lux",
+            "Author_Name": "Stefania Hollow",
+            "Awards_Won": 0,
+            "Books_Sold": 9339,
+            "Books_Price": 4513,
+            "Authors_Birthdate": "2003-02-18T18:17:41.000Z",
+            "Award_Date": "2009-02-09T20:14:38.000Z"
+        },
+        {
+            "Book_Name": "Zaam-Dox Advanced",
+            "Author_Name": "Hortense Bleibaum",
+            "Awards_Won": 0,
+            "Books_Sold": 2062,
+            "Books_Price": 9947,
+            "Authors_Birthdate": "1981-04-26T19:29:10.000Z",
+            "Award_Date": "1998-08-14T06:38:32.000Z"
+        },
+        {
+            "Book_Name": "Flowdesk",
+            "Author_Name": "Nike Dohms",
+            "Awards_Won": 0,
+            "Books_Sold": 1604,
+            "Books_Price": 5704,
+            "Authors_Birthdate": "1992-02-10T09:32:01.000Z",
+            "Award_Date": "2007-10-03T18:10:32.000Z"
+        },
+        {
+            "Book_Name": "Ventosanzap",
+            "Author_Name": "Red Grills",
+            "Awards_Won": 0,
+            "Books_Sold": 606,
+            "Books_Price": 12614,
+            "Authors_Birthdate": "1970-02-03T10:36:11.000Z",
+            "Award_Date": "1982-05-11T12:10:38.000Z"
+        },
+        {
+            "Book_Name": "Zaam-Dox",
+            "Author_Name": "Lanita Arrighetti",
+            "Awards_Won": 0,
+            "Books_Sold": 8810,
+            "Books_Price": 2892,
+            "Authors_Birthdate": "1964-01-28T10:49:49.000Z",
+            "Award_Date": "2004-04-12T20:04:14.000Z"
+        },
+        {
+            "Book_Name": "Zoolab",
+            "Author_Name": "Jamil Grimm",
+            "Awards_Won": 0,
+            "Books_Sold": 1667,
+            "Books_Price": 4875,
+            "Authors_Birthdate": "1972-01-27T07:48:00.000Z",
+            "Award_Date": "2003-09-05T08:43:48.000Z"
+        },
+        {
+            "Book_Name": "Toughjoyfax",
+            "Author_Name": "Jeannie Petican",
+            "Awards_Won": 1,
+            "Books_Sold": 3330,
+            "Books_Price": 11233,
+            "Authors_Birthdate": "2001-05-03T16:06:33.000Z",
+            "Award_Date": "1993-08-17T05:35:03.000Z"
+        },
+        {
+            "Book_Name": "Hatity",
+            "Author_Name": "Udall Truder",
+            "Awards_Won": 1,
+            "Books_Sold": 2587,
+            "Books_Price": 9572,
+            "Authors_Birthdate": "1990-02-16T20:01:11.000Z",
+            "Award_Date": "1988-06-09T11:03:02.000Z"
+        },
+        {
+            "Book_Name": "Veribet",
+            "Author_Name": "Leonard O'Grady",
+            "Awards_Won": 1,
+            "Books_Sold": 4543,
+            "Books_Price": 10430,
+            "Authors_Birthdate": "1992-02-16T09:49:44.000Z",
+            "Award_Date": "1980-06-08T05:16:37.000Z"
+        },
+        {
+            "Book_Name": "Veribet Spy Or Double Agent",
+            "Author_Name": "Leonard O'Grady",
+            "Awards_Won": 1,
+            "Books_Sold": 4655,
+            "Books_Price": 13050,
+            "Authors_Birthdate": "1992-02-16T09:49:44.000Z",
+            "Award_Date": "1985-12-05T06:41:07.000Z"
+        },
+        {
+            "Book_Name": "Otcom",
+            "Author_Name": "Florance Birtwisle",
+            "Awards_Won": 0,
+            "Books_Sold": 2009,
+            "Books_Price": 6931,
+            "Authors_Birthdate": "1961-12-15T05:56:50.000Z",
+            "Award_Date": "1981-09-12T20:48:40.000Z"
+        },
+        {
+            "Book_Name": "Zontrax",
+            "Author_Name": "Augustine Moulin",
+            "Awards_Won": 1,
+            "Books_Sold": 2358,
+            "Books_Price": 4218,
+            "Authors_Birthdate": "1987-08-11T16:47:59.000Z",
+            "Award_Date": "2003-08-27T09:08:50.000Z"
+        },
+        {
+            "Book_Name": "Pannier",
+            "Author_Name": "Delphinia Knappett",
+            "Awards_Won": 0,
+            "Books_Sold": 7193,
+            "Books_Price": 845,
+            "Authors_Birthdate": "2009-04-23T23:34:55.000Z",
+            "Award_Date": "1985-09-06T01:28:54.000Z"
+        },
+        {
+            "Book_Name": "It",
+            "Author_Name": "Rafaelita Vernham",
+            "Awards_Won": 0,
+            "Books_Sold": 6365,
+            "Books_Price": 11347,
+            "Authors_Birthdate": "1960-03-16T06:43:03.000Z",
+            "Award_Date": "2001-06-07T18:41:53.000Z"
+        },
+        {
+            "Book_Name": "Trippledex",
+            "Author_Name": "Demetria Wornham",
+            "Awards_Won": 1,
+            "Books_Sold": 4785,
+            "Books_Price": 12351,
+            "Authors_Birthdate": "1984-01-22T21:57:38.000Z",
+            "Award_Date": "1989-01-18T06:43:00.000Z"
+        },
+        {
+            "Book_Name": "Voltsillam",
+            "Author_Name": "Huntington Kaliszewski",
+            "Awards_Won": 0,
+            "Books_Sold": 3524,
+            "Books_Price": 12334,
+            "Authors_Birthdate": "1998-07-22T06:51:01.000Z",
+            "Award_Date": "1988-05-29T19:52:57.000Z"
+        },
+        {
+            "Book_Name": "Cookley",
+            "Author_Name": "Valentino Melley",
+            "Awards_Won": 1,
+            "Books_Sold": 8131,
+            "Books_Price": 13203,
+            "Authors_Birthdate": "2006-09-18T16:58:36.000Z",
+            "Award_Date": "1996-10-10T00:34:57.000Z"
+        },
+        {
+            "Book_Name": "Fix San",
+            "Author_Name": "Obed Cruttenden",
+            "Awards_Won": 0,
+            "Books_Sold": 9040,
+            "Books_Price": 3544,
+            "Authors_Birthdate": "1976-03-31T06:35:10.000Z",
+            "Award_Date": "2007-11-04T00:07:19.000Z"
+        },
+        {
+            "Book_Name": "Fix San Hell Road",
+            "Author_Name": "Obed Cruttenden",
+            "Awards_Won": 0,
+            "Books_Sold": 4325,
+            "Books_Price": 8605,
+            "Authors_Birthdate": "1976-03-31T06:35:10.000Z",
+            "Award_Date": "2003-05-24T09:36:21.000Z"
+        },
+        {
+            "Book_Name": "Y-find",
+            "Author_Name": "Cornelius Exeter",
+            "Awards_Won": 0,
+            "Books_Sold": 2579,
+            "Books_Price": 1510,
+            "Authors_Birthdate": "2007-11-16T06:29:07.000Z",
+            "Award_Date": "2005-02-15T08:32:25.000Z"
+        },
+        {
+            "Book_Name": "Y-find 2",
+            "Author_Name": "Cornelius Exeter",
+            "Awards_Won": 1,
+            "Books_Sold": 9002,
+            "Books_Price": 2649,
+            "Authors_Birthdate": "2007-11-16T06:29:07.000Z",
+            "Award_Date": "2004-10-19T01:06:11.000Z"
+        },
+        {
+            "Book_Name": "Ronstring",
+            "Author_Name": "Shirlee Nottle",
+            "Awards_Won": 1,
+            "Books_Sold": 480,
+            "Books_Price": 14472,
+            "Authors_Birthdate": "1975-03-01T05:55:32.000Z",
+            "Award_Date": "1999-02-17T20:26:29.000Z"
+        },
+        {
+            "Book_Name": "Ronstring 2",
+            "Author_Name": "Shirlee Nottle",
+            "Awards_Won": 1,
+            "Books_Sold": 6057,
+            "Books_Price": 14438,
+            "Authors_Birthdate": "1975-03-01T05:55:32.000Z",
+            "Award_Date": "1981-10-02T02:49:13.000Z"
+        },
+        {
+            "Book_Name": "Zathin",
+            "Author_Name": "Kort Deroche",
+            "Awards_Won": 1,
+            "Books_Sold": 9769,
+            "Books_Price": 3815,
+            "Authors_Birthdate": "1994-09-24T01:36:35.000Z",
+            "Award_Date": "2001-10-10T14:15:31.000Z"
+        }
+    ]

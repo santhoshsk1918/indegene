@@ -1,0 +1,29 @@
+TASK1
+db.getCollection("books").aggregate([
+    {
+        $match: {"Awards_Won": 1}
+    },
+    {
+        $lookup: {
+            from: "authors",
+            localField: "authorId",
+            foreignField: "_id",
+            as: "author"
+        }
+    },
+    {
+        $unwind: "$author"
+    },
+    {
+        $group:{
+            _id: "$author.Author_Name", 
+            Author_DOB : { $first: '$author.Author_DOB' },
+            "awards_won": {$sum: "$Awards_Won"}
+        }
+    },
+    {
+        $match: {
+            "awards_won": {$gte: 2}
+        }
+    }
+])

@@ -1,0 +1,414 @@
+[
+    {
+        "Author_Name": "Cordell Munning",
+        "Author_DOB": "1977-11-14",
+        "books": [{
+            "Book_Name": "Fixflex",
+            "Book_Price": 249,
+            "Books_Sold": 7940,
+            "Awards_Won": 1,
+            "Award_Date": "1990-11-08"
+        },
+        {
+            "Book_Name": "Kanlam",
+            "Book_Price": 2537,
+            "Books_Sold": 3942,
+            "Awards_Won": 1,
+            "Award_Date": "1998-01-18"
+        },
+        {
+            "Book_Name": "Prodder",
+            "Book_Price": 632,
+            "Books_Sold": 5588,
+            "Awards_Won": 0,
+            "Award_Date": "1991-03-08T13:14:34.000Z"
+        },
+        {
+            "Book_Name": "Lotstring",
+            "Book_Price": 2699,
+            "Books_Sold": 3841,
+            "Awards_Won": 1,
+            "Award_Date": "1993-12-13T15:25:50.000Z"
+        },
+        {
+            "Book_Name": "Andalax",
+            "Book_Price": 2418,
+            "Books_Sold": 13587,
+            "Awards_Won": 0,
+            "Award_Date": "2002-02-05T13:28:29.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Dannye Lowne",
+        "Author_DOB": "1975-10-23T02:14:02.000Z",
+        "books": [{
+            "Book_Name": "Domainer",
+            "Book_Price": 4345,
+            "Books_Sold": 14527,
+            "Awards_Won": 0,
+            "Award_Date": "2007-05-20T22:50:07.000Z"
+        },
+        {
+            "Book_Name": "Tampflex",
+            "Book_Price": 4326,
+            "Books_Sold": 13997,
+            "Awards_Won": 0,
+            "Award_Date": "1990-05-24T20:17:51.000Z"
+        },
+        {
+            "Book_Name": "Trippledex",
+            "Book_Price": 652,
+            "Books_Sold": 8820,
+            "Awards_Won": 1,
+            "Award_Date": "2003-10-26T14:52:59.000Z"
+        },
+        {
+            "Book_Name": "Opela",
+            "Book_Price": 3598,
+            "Books_Sold": 2391,
+            "Awards_Won": 0,
+            "Award_Date": "2016-06-03T13:12:58.000Z"
+        },
+        {
+            "Book_Name": "Greenlam",
+            "Book_Price": 2656,
+            "Books_Sold": 11812,
+            "Awards_Won": 0,
+            "Award_Date": "1995-02-24T00:07:57.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Madella Catton",
+        "Author_DOB": "1981-09-16T14:30:48.000Z",
+        "books": [{
+            "Book_Name": "Kanlam",
+            "Book_Price": 4940,
+            "Books_Sold": 6551,
+            "Awards_Won": 1,
+            "Award_Date": "1991-11-25T01:20:07.000Z"
+        },
+        {
+            "Book_Name": "Hatity",
+            "Book_Price": 4142,
+            "Books_Sold": 2709,
+            "Awards_Won": 1,
+            "Award_Date": "1999-10-11T06:56:39.000Z"
+        },
+        {
+            "Book_Name": "Tresom",
+            "Book_Price": 3337,
+            "Books_Sold": 4962,
+            "Awards_Won": 0,
+            "Award_Date": "2004-09-08T20:44:19.000Z"
+        },
+        {
+            "Book_Name": "Tempsoft",
+            "Book_Price": 3296,
+            "Books_Sold": 10392,
+            "Awards_Won": 1,
+            "Award_Date": "2000-04-24T18:48:50.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Leeann Vaughan",
+        "Author_DOB": "1998-02-09T10:46:13.000Z",
+        "books": [{
+            "Book_Name": "Vagram",
+            "Book_Price": 766,
+            "Books_Sold": 4758,
+            "Awards_Won": 0,
+            "Award_Date": "1994-09-24T21:41:00.000Z"
+        },
+        {
+            "Book_Name": "Temp",
+            "Book_Price": 3880,
+            "Books_Sold": 980,
+            "Awards_Won": 0,
+            "Award_Date": "2006-08-20T08:42:21.000Z"
+        },
+        {
+            "Book_Name": "Trippledex",
+            "Book_Price": 3006,
+            "Books_Sold": 10457,
+            "Awards_Won": 0,
+            "Award_Date": "1993-03-02T17:34:20.000Z"
+        },
+        {
+            "Book_Name": "Zontrax",
+            "Book_Price": 218,
+            "Books_Sold": 11950,
+            "Awards_Won": 1,
+            "Award_Date": "2000-07-18T20:47:27.000Z"
+        },
+        {
+            "Book_Name": "Transcof",
+            "Book_Price": 4274,
+            "Books_Sold": 7936,
+            "Awards_Won": 1,
+            "Award_Date": "1994-11-05T16:19:41.000Z"
+        },
+        {
+            "Book_Name": "Tempsoft",
+            "Book_Price": 2126,
+            "Books_Sold": 10201,
+            "Awards_Won": 1,
+            "Award_Date": "2009-02-26T18:39:14.000Z"
+        },
+        {
+            "Book_Name": "Sub-Ex",
+            "Book_Price": 1701,
+            "Books_Sold": 12375,
+            "Awards_Won": 0,
+            "Award_Date": "2016-09-21T18:18:14.000Z"
+        },
+        {
+            "Book_Name": "Veribet",
+            "Book_Price": 4677,
+            "Books_Sold": 9602,
+            "Awards_Won": 1,
+            "Award_Date": "2012-03-03T06:47:40.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Tomas Kibbee",
+        "Author_DOB": "1990-09-11T07:00:56.000Z",
+        "books": [{
+            "Book_Name": "Konklux",
+            "Book_Price": 472,
+            "Books_Sold": 3512,
+            "Awards_Won": 1,
+            "Award_Date": "1997-09-01T03:16:00.000Z"
+        },
+        {
+            "Book_Name": "Vagram",
+            "Book_Price": 2656,
+            "Books_Sold": 9242,
+            "Awards_Won": 0,
+            "Award_Date": "2003-03-08T11:22:24.000Z"
+        },
+        {
+            "Book_Name": "Stim",
+            "Book_Price": 2005,
+            "Books_Sold": 2860,
+            "Awards_Won": 0,
+            "Award_Date": "2011-10-06T10:05:21.000Z"
+        },
+        {
+            "Book_Name": "Ventosanzap",
+            "Book_Price": 4424,
+            "Books_Sold": 7202,
+            "Awards_Won": 0,
+            "Award_Date": "2019-07-03T01:21:39.000Z"
+        },
+        {
+            "Book_Name": "Ventosanzap",
+            "Book_Price": 4112,
+            "Books_Sold": 2021,
+            "Awards_Won": 0,
+            "Award_Date": "2019-04-11T01:49:36.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Kendal Mostin",
+        "Author_DOB": "1997-12-01T20:39:51.000Z",
+        "books": [{
+            "Book_Name": "Biodex",
+            "Book_Price": 1040,
+            "Books_Sold": 5648,
+            "Awards_Won": 0,
+            "Award_Date": "2003-07-13T13:14:46.000Z"
+        },
+        {
+            "Book_Name": "Matsoft",
+            "Book_Price": 23,
+            "Books_Sold": 13552,
+            "Awards_Won": 0,
+            "Award_Date": "2007-02-02T17:33:43.000Z"
+        },
+        {
+            "Book_Name": "Regrant",
+            "Book_Price": 2778,
+            "Books_Sold": 12865,
+            "Awards_Won": 0,
+            "Award_Date": "2006-05-05T10:39:39.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Shurlocke Gillford",
+        "Author_DOB": "1991-03-15T18:13:13.000Z",
+        "books": [{
+            "Book_Name": "Biodex",
+            "Book_Price": 1267,
+            "Books_Sold": 12971,
+            "Awards_Won": 1,
+            "Award_Date": "2009-05-21T11:39:03.000Z"
+        },
+        {
+            "Book_Name": "Fixflex",
+            "Book_Price": 1764,
+            "Books_Sold": 8277,
+            "Awards_Won": 0,
+            "Award_Date": "1994-09-16T22:36:44.000Z"
+        },
+        {
+            "Book_Name": "Sonsing",
+            "Book_Price": 2063,
+            "Books_Sold": 457,
+            "Awards_Won": 0,
+            "Award_Date": "2010-02-23T08:44:55.000Z"
+        },
+        {
+            "Book_Name": "Sonsing",
+            "Book_Price": 3665,
+            "Books_Sold": 13822,
+            "Awards_Won": 1,
+            "Award_Date": "2010-12-20T06:41:03.000Z"
+        },
+        {
+            "Book_Name": "Cardify",
+            "Book_Price": 4629,
+            "Books_Sold": 13929,
+            "Awards_Won": 1,
+            "Award_Date": "2018-09-23T06:21:14.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Collen Moy",
+        "Author_DOB": "1995-06-03T13:01:01.000Z",
+        "books": [{
+            "Book_Name": "Solarbreeze",
+            "Book_Price": 483,
+            "Books_Sold": 5765,
+            "Awards_Won": 0,
+            "Award_Date": "1999-07-14T23:12:45.000Z"
+        },
+        {
+            "Book_Name": "Cardguard",
+            "Book_Price": 165,
+            "Books_Sold": 8370,
+            "Awards_Won": 0,
+            "Award_Date": "2020-04-06T13:43:34.000Z"
+        },
+        {
+            "Book_Name": "Treeflex",
+            "Book_Price": 4468,
+            "Books_Sold": 6664,
+            "Awards_Won": 0,
+            "Award_Date": "2009-02-20T07:13:15.000Z"
+        },
+        {
+            "Book_Name": "Domainer",
+            "Book_Price": 725,
+            "Books_Sold": 14977,
+            "Awards_Won": 0,
+            "Award_Date": "2011-10-02T03:44:35.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Clarinda Kittless",
+        "Author_DOB": "1977-09-25T20:32:50.000Z",
+        "books": [{
+            "Book_Name": "Cookley",
+            "Book_Price": 4247,
+            "Books_Sold": 1362,
+            "Awards_Won": 1,
+            "Award_Date": "2010-09-21T21:45:46.000Z"
+        },
+        {
+            "Book_Name": "Zathin",
+            "Book_Price": 548,
+            "Books_Sold": 4275,
+            "Awards_Won": 1,
+            "Award_Date": "2015-01-27T23:38:16.000Z"
+        },
+        {
+            "Book_Name": "It",
+            "Book_Price": 39,
+            "Books_Sold": 1425,
+            "Awards_Won": 1,
+            "Award_Date": "2000-09-22T07:21:24.000Z"
+        },
+        {
+            "Book_Name": "Kanlam",
+            "Book_Price": 2744,
+            "Books_Sold": 488,
+            "Awards_Won": 0,
+            "Award_Date": "2017-01-01T01:04:59.000Z"
+        },
+        {
+            "Book_Name": "Lotstring",
+            "Book_Price": 52,
+            "Books_Sold": 6810,
+            "Awards_Won": 1,
+            "Award_Date": "2001-08-23T19:15:08.000Z"
+        },
+        {
+            "Book_Name": "Ronstring",
+            "Book_Price": 1626,
+            "Books_Sold": 814,
+            "Awards_Won": 1,
+            "Award_Date": "1992-12-05T09:06:28.000Z"
+        },
+        {
+            "Book_Name": "Y-find",
+            "Book_Price": 91,
+            "Books_Sold": 3552,
+            "Awards_Won": 0,
+            "Award_Date": "2010-02-18T01:55:28.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Fay Grabert",
+        "Author_DOB": "1983-08-12T23:52:11.000Z",
+        "books": [{
+            "Book_Name": "Lotlux",
+            "Book_Price": 1133,
+            "Books_Sold": 1972,
+            "Awards_Won": 1,
+            "Award_Date": "2011-07-26T14:09:01.000Z"
+        },
+        {
+            "Book_Name": "Treeflex",
+            "Book_Price": 1324,
+            "Books_Sold": 8119,
+            "Awards_Won": 0,
+            "Award_Date": "2009-01-14T23:02:31.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Kynthia Castano",
+        "Author_DOB": "1986-12-21T15:27:39.000Z",
+        "books": [{
+            "Book_Name": "Daltfresh",
+            "Book_Price": 805,
+            "Books_Sold": 8710,
+            "Awards_Won": 1,
+            "Award_Date": "1990-01-30T20:44:20.000Z"
+        }]
+    },
+    {
+        "Author_Name": "Dre Poyner",
+        "Author_DOB": "1996-04-23T06:00:53.000Z",
+        "books": [{
+            "Book_Name": "Lotlux e",
+            "Book_Price": 1533,
+            "Books_Sold": 1972,
+            "Awards_Won": 1,
+            "Award_Date": "2011-07-26T14:09:01.000Z"
+        },
+        {
+            "Book_Name": "Treeflex 12",
+            "Book_Price": 1314,
+            "Books_Sold": 8119,
+            "Awards_Won": 0,
+            "Award_Date": "2009-01-14T23:02:31.000Z"
+        },
+        {
+            "Book_Name": "Daltfresh",
+            "Book_Price": 805,
+            "Books_Sold": 8710,
+            "Awards_Won": 1,
+            "Award_Date": "1990-01-30T20:44:20.000Z"
+        }]
+    }
+]

@@ -1,7 +1,9 @@
 Please run npm install
 please run npm start
 
-Please run the initial Queries in initialQueries.js
+Please run the initial Queries in ./persistance/initialQueries.js in any mongodb client
+
+Please find raw queries in ./persistance/Queries folder
 
 
 In any browser

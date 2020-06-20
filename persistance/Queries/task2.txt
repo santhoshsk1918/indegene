@@ -1,0 +1,1 @@
+db.getCollection('authors').find({"awards.year": {$gte: 2006}})

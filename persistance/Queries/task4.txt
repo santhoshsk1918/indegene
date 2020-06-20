@@ -1,0 +1,31 @@
+db.getCollection('books').aggregate([{
+    $lookup: {
+        from: 'authors',
+        localField: 'authorId',
+        foreignField: '_id',
+        as: 'authors'
+    }
+}, {
+    $unwind: {
+        path: "$authors"
+    }
+}, {
+    $match: {
+        "authors.birth": {
+            $gte: new Date("1955-12-09T05:00:00.000Z")
+        }
+    }
+}, {
+    $group: {
+        _id: "$authors._id",
+        totalSold: {
+            $sum: "$price"
+        }
+    }
+}, {
+    $match: {
+        totalSold: {
+            $gte: 100
+        }
+    }
+}])

@@ -1,0 +1,38 @@
+db.getCollection('authors').aggregate([
+  {
+    '$project': {
+      '_id': true, 
+      'name': true, 
+      'birth': true, 
+      'deth': true, 
+      'contribs': true, 
+      'awards': true, 
+      'totalNoAwards': {
+        '$cond': {
+          'if': {
+            '$isArray': '$awards'
+          }, 
+          'then': {
+            '$size': '$awards'
+          }, 
+          'else': 0
+        }
+      }
+    }
+  }, {
+    '$match': {
+      'totalNoAwards': {
+        '$gte': 2
+      }
+    }
+  }, {
+    '$project': {
+      '_id': true, 
+      'name': true, 
+      'birth': true, 
+      'deth': true, 
+      'contribs': true, 
+      'awards': true
+    }
+  }
+])

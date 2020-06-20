@@ -1,1 +1,0 @@
-db.getCollection("books").find({"Awards_Won": 1, "Award_Date": {$gte: date}})

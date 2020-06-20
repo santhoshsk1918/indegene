@@ -1,11 +1,12 @@
 Please run npm install
 please run npm start
 
-Please Node a new Collection by the name  "indegene" is formed
+Please run the initial Queries in initialQueries.js
+
 
 In any browser
 Task 1: 
-please run localhost:3000/greaterThan?noOfAwards=2
+please run localhost:3000/awardGreaterThan?noOfAwards=2
 
 
 Task 2: 
@@ -15,5 +16,5 @@ Task 3:
 Please run localhost:3000/profitsAndSold
 
 Task 4
-Please run localhost:3000/totalSoldGreatherThanYear?year=1990
+Please run localhost:3000/totalSoldGreatherThanDateAndPrice?date=1906-12-09T05:00:00.000Z&price=7000
 

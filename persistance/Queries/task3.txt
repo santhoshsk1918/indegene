@@ -1,0 +1,24 @@
+db.getCollection('books').aggregate([{
+    $lookup: {
+        from: 'authors',
+        localField: 'authorId',
+        foreignField: '_id',
+        as: 'authors'
+    }
+}, {
+    $unwind: {
+        path: "$authors"
+    }
+}, {
+    $group: {
+        _id: "$authors._id",
+        totalBooksSold: {
+            $sum: {
+                $multiply: ["$price", "$sold"]
+            }
+        },
+        totalSold: {
+            $sum: "$sold"
+        }
+    }
+}])
